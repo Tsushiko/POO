@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DivisaoJaExisteException
+comment1.params=
+comment1.target=DivisaoJaExisteException()
+comment2.params=s
+comment2.target=DivisaoJaExisteException(java.lang.String)
+numComments=3

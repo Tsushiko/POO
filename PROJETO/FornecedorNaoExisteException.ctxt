@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FornecedorNaoExisteException
+comment1.params=
+comment1.target=FornecedorNaoExisteException()
+comment2.params=s
+comment2.target=FornecedorNaoExisteException(java.lang.String)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FaturaNaoExisteException
+comment1.params=
+comment1.target=FaturaNaoExisteException()
+comment2.params=s
+comment2.target=FaturaNaoExisteException(java.lang.String)
+numComments=3

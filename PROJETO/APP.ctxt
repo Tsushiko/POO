@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=APP
+comment1.params=Casas
+comment1.target=java.util.Map\ fixCasas(java.util.Map)
+comment1.text=\r\n\ Atualiza\ as\ casas\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=c1\ c2
+comment3.target=int\ compare(Fatura,\ Fatura)
+numComments=4
