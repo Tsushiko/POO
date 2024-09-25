@@ -1,1 +1,1 @@
-Programação Orientada aos Objetos
+Projeto de Programação Orientada aos Objetos
